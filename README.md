@@ -4,7 +4,7 @@ FinTech Git assigment due Thursday 24 March by Anita Januszek
 ---
 
 **What is fintcech domain researched?**: 
-The case study covers *Payment and Billing* domain also refered to as BNPL (Buy Now Pay Later) as it has undergone a significant structural changes and innovations pver the past years accelerated by COVID digital shift. 
+The case study covers *Payment and Billing* domain also refered to as BNPL (Buy Now Pay Later) as it has undergone a significant structural changes and innovations over the past years accelerated by COVID digital shift. 
 BNPL been shaped in a booming findtech discipline changing a life of every person. 
 
 There are number of key competitors: 
